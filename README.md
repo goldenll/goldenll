@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Lauren Golden, an emerging software developer based out of Denver, CO 
+## Hi there 👋
+### I am Lauren Golden, an emerging software developer based out of Denver, CO 
 <!--
 **goldenll/goldenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +19,8 @@ I am a former psychologist who took a leap into the world of technology as a sof
 As a software engineer, I discovered an exciting opportunity to make a difference by blending my passion for helping others with my natural knack for working with numbers and data. It's been an amazing journey so far! Currently, I specialize in object-oriented programming and I'm eager to join a team of like-minded individuals who also value evidence-based approaches for problem-solving, promoting diversity in the workplace, and collaborating on initiatives that contribute to a healthier world.
 
 Whether you're interested in discussing the intersection of mental wellness and technology, swapping tales from our travel adventures, or being dazzled by my repertoire of quotes from The Office, I'd love to connect. Reach out and let's chat!
+
+
+**Likes:** cheese, The Office (US), hiking, Dolly Parton, ranch dressing, travel (planning and going), and Halloween
+
+**Dislikes:** crowds, mustard, cilantro, excessive puns, science fiction/fantasy (don't @ me), slow drivers in the left lane, and being cold
