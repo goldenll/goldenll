@@ -21,6 +21,6 @@ As a software engineer, I discovered an exciting opportunity to make a differenc
 Whether you're interested in discussing the intersection of mental wellness and technology, swapping tales from our travel adventures, or being dazzled by my repertoire of quotes from The Office, I'd love to connect. Reach out and let's chat!
 
 
-**Likes:** cheese, The Office (US), hiking, Dolly Parton, ranch dressing, travel (planning and going), and Halloween
+**Likes:** cheese, The Office (US), hiking, Dolly Parton, ranch dressing, travel (planning and going), Halloween, and being on time
 
-**Dislikes:** crowds, mustard, cilantro, excessive puns, science fiction/fantasy (don't @ me), slow drivers in the left lane, being late, and being cold
+**Dislikes:** crowds, mustard, cilantro, excessive puns, science fiction/fantasy (don't @ me), slow drivers in the left lane, and being cold
