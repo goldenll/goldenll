@@ -23,4 +23,4 @@ Whether you're interested in discussing the intersection of mental wellness and 
 
 **Likes:** cheese, The Office (US), hiking, Dolly Parton, ranch dressing, travel (planning and going), and Halloween
 
-**Dislikes:** crowds, mustard, cilantro, excessive puns, science fiction/fantasy (don't @ me), slow drivers in the left lane, and being cold
+**Dislikes:** crowds, mustard, cilantro, excessive puns, science fiction/fantasy (don't @ me), slow drivers in the left lane, being late, and being cold
