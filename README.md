@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/goldenll/)
 - 😄 Pronouns: ... she/her/hers
 - ⚡ Fun fact: ... I've never had a cup of coffee
+- 📁 Recent projects:
+  - 🏀 [Munch Madness](https://github.com/orgs/Munch-Madness/repositories)
+  - 🗣️ [Jana Social](https://github.com/orgs/jana-social/repositories)
 
 ### About Me: 
 
