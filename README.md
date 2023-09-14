@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... the Turing School Back End Engineering curriculum (current Mod 3 student)
+- 🔭 I’m currently working on ... the Turing School Back End Engineering curriculum (current Mod 4 student)
 - 🌱 I’m currently learning ... how to create professional Rails applications, consuming third party APIs, creating APIs, and memoization
 - 💬 Ask me about ... hiking in Colorado
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/goldenll/)
